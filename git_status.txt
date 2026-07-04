@@ -1,0 +1,50 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../../../.anaconda/
+	../../../../../.bash_history
+	../../../../../.bash_profile
+	../../../../../.conda/
+	../../../../../.copilot/
+	../../../../../.dbt/
+	../../../../../.gitconfig
+	../../../../../.ipython/
+	../../../../../.lesshst
+	../../../../../.local/
+	../../../../../.matplotlib/
+	../../../../../.profile
+	../../../../../.python_history
+	../../../../../.ssh/
+	../../../../../.streamlit/
+	../../../../../.vim/
+	../../../../../.viminfo
+	../../../../../.vscode-shared/
+	../../../../../.vscode/
+	../../../../../AppData/
+	../../../../../Contacts/
+	../../../../../Desktop/
+	../../../../
+	../../../../../Downloads/
+	../../../../../Favorites/
+	../../../../../Links/
+	../../../../../Music/
+	../../../../../NTUSER.DAT
+	../../../../../NTUSER.DAT{c0ce7276-b117-11f0-95f2-9cc7d3b14cb3}.TM.blf
+	../../../../../NTUSER.DAT{c0ce7276-b117-11f0-95f2-9cc7d3b14cb3}.TMContainer00000000000000000001.regtrans-ms
+	../../../../../NTUSER.DAT{c0ce7276-b117-11f0-95f2-9cc7d3b14cb3}.TMContainer00000000000000000002.regtrans-ms
+	../../../../../OneDrive/
+	../../../../../Pictures/
+	../../../../../Saved Games/
+	../../../../../Searches/
+	../../../../../Videos/
+	../../../../../anaconda3/
+	../../../../../edb_psqlodbc.exe
+	../../../../../ntuser.dat.LOG1
+	../../../../../ntuser.dat.LOG2
+	../../../../../ntuser.ini
+	../../../../../postgresql_18.exe
+	../../../../../postgresql_18.exe.lnk
+
+nothing added to commit but untracked files present (use "git add" to track)
