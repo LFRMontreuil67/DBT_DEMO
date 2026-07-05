@@ -1,6 +1,10 @@
 # Environnement virtuel
 my-dbt-env/
 
+# Fichiers en cours de dev.
+DevTu/
+Admin/
+
 # Fichiers de logs générés par DBT
 logs/
 

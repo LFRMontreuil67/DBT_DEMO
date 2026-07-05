@@ -1,8 +1,0 @@
-Documents/00*/03*/04*/DBT_DEMO
-
-Nom Projet : LfrDBT
-my-dbt-env/ : le venv
-C:\Users\Fruchard\.dbt : profiles.yml
-Le Git : https://github.com (LFRMontreuil67)
-
-cat ~/.dbt/profiles.yml
