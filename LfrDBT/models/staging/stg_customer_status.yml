@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: stg_customer_status
+    description: Statut client à une date donnée, basé sur le seed customer_status
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+      - name: status_date
+        tests:
+          - not_null
+      - name: status_id
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 1, 2, 3, 4, 5]
